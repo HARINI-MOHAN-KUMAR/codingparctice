@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-class  duplicate {
+class Solution {
     public boolean hasDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
 
